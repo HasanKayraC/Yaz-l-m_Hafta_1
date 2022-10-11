@@ -1,7 +1,11 @@
 Konya Şehir Koleji
+
     11 Ekim
+    
         Flutter Application
+        
             Kullanılan Widgetler
+            
                 Container
                 Column
                 Row
@@ -10,5 +14,8 @@ Konya Şehir Koleji
 
 
 Kodlara ulaşmak için:
+
     Lib klasörü içerisindeki main.dart dosyasını açınız.
+    
+  
 
